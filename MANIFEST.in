@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include bus_service_management *.css
+recursive-include bus_service_management *.csv
+recursive-include bus_service_management *.html
+recursive-include bus_service_management *.ico
+recursive-include bus_service_management *.js
+recursive-include bus_service_management *.json
+recursive-include bus_service_management *.md
+recursive-include bus_service_management *.png
+recursive-include bus_service_management *.py
+recursive-include bus_service_management *.svg
+recursive-include bus_service_management *.txt
+recursive-exclude bus_service_management *.pyc
