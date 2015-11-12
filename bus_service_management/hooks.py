@@ -8,7 +8,7 @@ app_description = "Created for Dynacle Transportation and Workshop Pte Ltd"
 app_icon = "icon-truck"
 app_color = "red"
 app_email = "info@agtech.com.sg"
-app_version = "0.0.1"
+app_version = "0.0.2"
 
 # Includes in <head>
 # ------------------
