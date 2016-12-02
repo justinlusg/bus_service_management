@@ -9,7 +9,7 @@
  "is_standard": "Yes", 
  "modified": "2016-11-16 14:51:32.904404", 
  "modified_by": "Administrator", 
- "module": "Custom Dynacle", 
+ "module": "Bus Service Management", 
  "name": "Invoicing Report", 
  "owner": "Administrator", 
  "ref_doctype": "Transport Orders", 
